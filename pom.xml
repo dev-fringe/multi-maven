@@ -15,5 +15,6 @@
 	<modules>
 		<module>client-config</module>
 		<module>server-config</module>
+		<module>gateway</module>
 	</modules>
 </project>
