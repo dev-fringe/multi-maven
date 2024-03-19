@@ -16,5 +16,6 @@
 		<module>client-config</module>
 		<module>server-config</module>
 		<module>gateway</module>
+		<module>service-registry</module>
 	</modules>
 </project>
